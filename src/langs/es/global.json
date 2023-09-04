@@ -1,5 +1,3 @@
 {
-  "header": {
-    "hello-world": "Hola mundo"
-  }
+  "test": "Valor de prueba"
 }
